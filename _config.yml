@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Welcome to the x-bug’s homepage!
 description: Kommentar
+markdown: kramdown
+name: schaelsick
