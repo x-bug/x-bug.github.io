@@ -1,3 +1,2 @@
-theme: jekyll-theme-hacker
-title: Welcome to x-bug’s homepage!
-description: Kommentar
+name: x.bug
+markdown: kramdown
