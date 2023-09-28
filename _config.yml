@@ -115,6 +115,8 @@ tag_archive:
   path: /tags/
 
 # http://matthewowen.github.io/jekyll-mapping/
+footer_scripts:
+  - /_includes/jekyll_mapping.html
 mapping:
 	provider: openstreetmap
 	zoom: 8
