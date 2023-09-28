@@ -113,3 +113,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# http://matthewowen.github.io/jekyll-mapping/
+mapping:
+	provider: openstreetmap
+	zoom: 8
+	dimensions:
+		width: 600
+		height: 400
